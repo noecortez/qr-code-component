@@ -15,7 +15,7 @@ body {
 
 .card {
   background-color: hsl(0, 0%, 100%);
-  max-width: 280px;
+  max-width: 320px;
   width: 100%;
   padding: 16px;
   border-radius: 16px;
@@ -27,12 +27,12 @@ body {
 }
 
 .card .card-content {
-  margin: 16px auto;
+  margin: 20px 16px;
 }
 
-.card-content h2 {
+.card-content h1 {
   color: hsl(218, 44%, 22%);
-  font-size: 20px;
+  font-size: 22px;
   margin-bottom: 14px;
 }
 
